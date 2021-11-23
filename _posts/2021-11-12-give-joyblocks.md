@@ -4,8 +4,8 @@ layout: post
 title: Give Joyblocks
 subtitle: A permanent token of your affection
 description: Low-cost transfers on Polygon
-image: https://gateway.pinata.cloud/ipfs/QmWFEz2u84qhD75LBCcBk2UPghcWQj6wAnoFLVRTNDPxLX/Birth-of-the-gift.jpeg
-optimized_image: https://gateway.pinata.cloud/ipfs/QmWFEz2u84qhD75LBCcBk2UPghcWQj6wAnoFLVRTNDPxLX/Birth-of-the-gift.jpeg
+image: https://gateway.pinata.cloud/ipfs/QmSnU2RuZKKoJbJ9kS4V6GpJJKVprscgcYKcRwmHmZnS4W
+optimized_image: https://gateway.pinata.cloud/ipfs/QmSnU2RuZKKoJbJ9kS4V6GpJJKVprscgcYKcRwmHmZnS4W
 category: gift
 tags:
   - nft
