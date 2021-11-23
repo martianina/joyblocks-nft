@@ -14,10 +14,23 @@ author: mothership
 paginate: true
 ---
 
+# Text-Generated Art
+
+## Random Generated Image
 <iframe src='http://www.random-art.org/online/?embed=true'
         width='100%'
         height='100%'
         frameborder='0'
         allowfullscreen></iframe>
+
+
+## Random Generated Avatar
+<iframe src='https://avatars.dicebear.com/?embed=true'
+        width='100%'
+        height='100%'
+        frameborder='0'
+        allowfullscreen></iframe>
+        
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrfKGnSS5sRi02r2?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 
