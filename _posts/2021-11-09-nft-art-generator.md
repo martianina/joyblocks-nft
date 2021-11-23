@@ -14,17 +14,15 @@ author: mothership
 paginate: true
 ---
 
-# Text-Generated Art
+# Computer-Generated Art
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrfKGnSS5sRi02r2?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrfKGnSS5sRi02r2?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="1000" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-## Random Generated Image
-<iframe src='http://www.random-art.org/online/?embed=true'
-        width='1000px'
-        height='1000px'
-        frameborder='0'
-        allowfullscreen></iframe>
+## Choose From Random Avatar or Artistic Styled Photo
 
+Avatars are generated from text
+
+Artistic images require you to upload a photo.
 
 ## Random Generated Avatar
 <iframe src='https://avatars.dicebear.com/?embed=true'
