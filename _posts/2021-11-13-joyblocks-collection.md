@@ -4,8 +4,8 @@ layout: post
 title: Joyblocks Collections
 subtitle: View Joyblocks on Opensea
 description: 
-image: https://gateway.pinata.cloud/ipfs/QmbU3PtAzknVVX1ohDS1Ynf9e426mpUgK2m14QVERotrnr
-optimized_image: https://gateway.pinata.cloud/ipfs/QmbU3PtAzknVVX1ohDS1Ynf9e426mpUgK2m14QVERotrnr
+image: https://gateway.pinata.cloud/ipfs/QmWFEz2u84qhD75LBCcBk2UPghcWQj6wAnoFLVRTNDPxLX/Joylogo.png
+optimized_image: https://gateway.pinata.cloud/ipfs/QmWFEz2u84qhD75LBCcBk2UPghcWQj6wAnoFLVRTNDPxLX/Joylogo.png
 category: opensea
 tags:
   - mothership
