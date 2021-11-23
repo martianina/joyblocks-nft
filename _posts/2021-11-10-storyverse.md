@@ -1,16 +1,16 @@
 ---
-date: 2017-08-07 23:04:08
+date: 2021-11-21 12:26:40
 layout: post
-title: A star has fallen from the sky and the cat ate it
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme10_xenudc.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme10_xenudc.jpg
-category: music
+title: Create a Story
+subtitle: Generate a funny or romantic greeting for that special someone
+description: Storyverse is a Mad-Libs style story generator
+image: https://gateway.pinata.cloud/ipfs/QmWFEz2u84qhD75LBCcBk2UPghcWQj6wAnoFLVRTNDPxLX/Story-Joy.png
+optimized_image: https://gateway.pinata.cloud/ipfs/QmWFEz2u84qhD75LBCcBk2UPghcWQj6wAnoFLVRTNDPxLX/Story-Joy.png
+category: story
 tags:
-  - crazy
+  - nft
   - story
-author: thiagorossener
+author: mothership
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
@@ -124,16 +124,6 @@ Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, conse
 </table>
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-
-
-
-
-
-
-
-
-
 
 
 

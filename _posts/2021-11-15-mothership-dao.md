@@ -1,16 +1,16 @@
 ---
-date: 2018-04-21 12:26:40
+date: 2021-11-16 12:26:40
 layout: post
-title: Candy, candies, candy!
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822137/theme11_vei7iw.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822137/theme11_vei7iw.jpg
-category: diet
+title: The Mothership DAO
+subtitle: A vehicle for community prosperity in the metaverse
+description: The Mothership DAO meets the need of the Metaverse in the Meatspace
+image: https://gateway.pinata.cloud/ipfs/QmWFEz2u84qhD75LBCcBk2UPghcWQj6wAnoFLVRTNDPxLX/mothership-dao.jpeg
+optimized_image: https://gateway.pinata.cloud/ipfs/QmWFEz2u84qhD75LBCcBk2UPghcWQj6wAnoFLVRTNDPxLX/mothership-dao.jpeg
+category: dao
 tags:
-  - food
-  - tips
-author: thiagorossener
+  - mothership
+  - dao
+author: mothership
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
