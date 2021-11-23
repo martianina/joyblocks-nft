@@ -27,7 +27,7 @@ Artistic images require you to upload a photo.
 ## Random Generated Avatar
 <iframe src='https://avatars.dicebear.com/?embed=true'
         width='1000px'
-        height='1000px'
+        height='500px'
         frameborder='0'
         allowfullscreen></iframe>
         
