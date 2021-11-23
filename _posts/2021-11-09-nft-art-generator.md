@@ -26,8 +26,8 @@ paginate: true
 
 ## Random Generated Avatar
 <iframe src='https://avatars.dicebear.com/?embed=true'
-        width='100%'
-        height='100%'
+        width='1000px'
+        height='1000px'
         frameborder='0'
         allowfullscreen></iframe>
         
