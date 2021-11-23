@@ -14,23 +14,11 @@ author: mothership
 paginate: true
 ---
 
-# Computer-Generated Art
+# Computer-Generated Art and Music Generated from Your Greetings!
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrfKGnSS5sRi02r2?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="1000" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-## Choose From Random Avatar or Artistic Styled Photo
 
-Avatars are generated from text
-
-Artistic images require you to upload a photo.
-
-## Random Generated Avatar
-<iframe src='https://avatars.dicebear.com/?embed=true'
-        width='1000px'
-        height='500px'
-        frameborder='0'
-        allowfullscreen></iframe>
-        
 
 
 
