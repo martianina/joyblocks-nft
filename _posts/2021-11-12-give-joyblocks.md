@@ -10,7 +10,7 @@ category: gift
 tags:
   - nft
   - gift
-author: mothership
+author: 
 ---
 
 # Magic Seeds
