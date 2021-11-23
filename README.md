@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5f205b3a-73c2-472c-b052-82b95bdf36b7/deploy-status)](https://app.netlify.com/sites/sleepy-bhabha-00eedf/deploys)
 
-### Hey guys, how are you? 🍽 🇧🇷
+### Hey guys, how are you? 🍽 🇧🇷 
 
 As you know, this is a 100% free template, I earn nothing to maintain it. So, I have this idea and hope you can join me for a good cause.
 
