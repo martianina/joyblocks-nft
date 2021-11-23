@@ -4,8 +4,8 @@ layout: post
 title: Magic Seeds
 subtitle: Give Love
 description: Low-cost, permanent digital greeting cards
-image: https://gateway.pinata.cloud/ipfs/QmSnU2RuZKKoJbJ9kS4V6GpJJKVprscgcYKcRwmHmZnS4W
-optimized_image: https://gateway.pinata.cloud/ipfs/QmSnU2RuZKKoJbJ9kS4V6GpJJKVprscgcYKcRwmHmZnS4W
+image: https://gateway.pinata.cloud/ipfs/QmRQBnxAwEYjSE3ib8PdnXiLFVRCthYBjYEcbG1pnFFA1j
+optimized_image: https://gateway.pinata.cloud/ipfs/QmRQBnxAwEYjSE3ib8PdnXiLFVRCthYBjYEcbG1pnFFA1j
 category: gift
 tags:
   - nft
