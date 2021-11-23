@@ -16,10 +16,12 @@ paginate: true
 
 # Text-Generated Art
 
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrfKGnSS5sRi02r2?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 ## Random Generated Image
 <iframe src='http://www.random-art.org/online/?embed=true'
-        width='100%'
-        height='100%'
+        width='1000px'
+        height='1000px'
         frameborder='0'
         allowfullscreen></iframe>
 
@@ -31,6 +33,6 @@ paginate: true
         frameborder='0'
         allowfullscreen></iframe>
         
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrfKGnSS5sRi02r2?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 
 
