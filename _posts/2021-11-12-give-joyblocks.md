@@ -15,7 +15,7 @@ author:
 
 <iframe src='https://gateway.pinata.cloud/ipfs/QmZPPfXjt5qmDWBhAZqp7K1F6soYkCddgDBW1EdbHPzPRp'
         width='100%'
-        height='100%'
+        height='600px'
         frameborder='0'
         allowfullscreen></iframe>
 
