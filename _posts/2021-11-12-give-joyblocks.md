@@ -2,7 +2,7 @@
 date: 2021-11-19 12:26:40
 layout: post
 title: Magic Seeds
-subtitle: Give Love
+subtitle: Give Joy
 description: Low-cost, permanent digital greeting cards
 image: https://gateway.pinata.cloud/ipfs/QmWFEz2u84qhD75LBCcBk2UPghcWQj6wAnoFLVRTNDPxLX/Birth-of-the-gift.jpeg
 optimized_image: https://gateway.pinata.cloud/ipfs/QmWFEz2u84qhD75LBCcBk2UPghcWQj6wAnoFLVRTNDPxLX/Birth-of-the-gift.jpeg
