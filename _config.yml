@@ -10,14 +10,14 @@ tags:
   - gift
 show_hero: true
 menu:
-  - title: Home
-    url: /
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
+  - title: Joyblocks
+    url: https://joyblocks.net
+  - title: Magic Seeds
+    url: https://www.joyblocks.net/give-joyblocks/
+  - title: Discord
+    url: https://discord.gg/jUhzjZdG6N
+  - title:
+    url:
 email: youremail@test.com
 # See: https://disqus.com/
 disqus_username: disqus_username
@@ -28,12 +28,12 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: 
+facebook_username: 
+twitter_username: 
+instagram_username: 
+linkedin_username: 
+medium_username: 
 
 
 # Posts Settings
