@@ -12,17 +12,13 @@ tags:
   - gift
 author: 
 ---
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrfKGnSS5sRi02r2?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="1000" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-# Magic Seeds
-# Art and music generated from your greeting!
+## Check your Discord account to retrieve your NFT.
 
-Check your Discord account to retrieve your NFT.
+We utilize low-cost transfers on Polygon so you have an easy marketplace to see and share your gift with others
 
-Low cost transfers on Polygon
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrfKGnSS5sRi02r2?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="800" style="background: transparent; border: 1px solid #ccc;"></iframe>
-
-
+[Go to Discord](https://discord.gg/6GEHkCpApM)
 
 
 
