@@ -14,8 +14,16 @@ author:
 ---
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrfKGnSS5sRi02r2?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="1000" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-## Artificial Intelligence and Blockchains need a little time to do their jobs. 
+## Magic Seeds need a few minutes to grow
+
+#### Magic Seed Joyblocks are generated from multimedia artificial intelligence. 
+
+#### Joyblocks are then "minted" as NFTs using Ethereum & low-gas-cost blockchain Polygon.
+
+Artificial Intelligence and Blockchains need a little time to do their jobs. 
+
 ### Please allow 24-48 hours for delivery
+
 #### Check your Discord account to retrieve your NFT.
 
 # What Next?
