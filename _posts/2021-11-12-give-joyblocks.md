@@ -19,8 +19,6 @@ author:
         frameborder='0'
         allowfullscreen></iframe>
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrfKGnSS5sRi02r2?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="1000" style="background: transparent; border: 0px solid #ccc;"></iframe>
-
 ## Magic Seeds need a few minutes to grow
 
 #### Magic Seed Joyblocks are generated from multimedia artificial intelligence. 
@@ -42,6 +40,10 @@ From there, it's all yours!!
 **Joyblocks** utilize low-cost transfers on Polygon so you have an easy marketplace to see and share your gift with others! 
 
 [Go to Discord](https://discord.gg/6GEHkCpApM)
+
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrfKGnSS5sRi02r2?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="1000" style="background: transparent; border: 0px solid #ccc;"></iframe>
+
 
 
 
