@@ -1,6 +1,6 @@
 ---
 date: 2021-11-19 12:26:40
-layout: post
+layout: page
 title: Joyblocks Collection
 subtitle: View on Opensea
 description: Give Joyblocks
