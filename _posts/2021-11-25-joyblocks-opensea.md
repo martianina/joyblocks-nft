@@ -4,7 +4,7 @@ layout: post
 title: Joyblocks Collection
 subtitle: View on Opensea
 description: Give Joyblocks
-image: https://gateway.pinata.cloud/ipfs/QmbU3PtAzknVVX1ohDS1Ynf9e426mpUgK2m14QVERotrnr
+image: 
 optimized_image: https://gateway.pinata.cloud/ipfs/QmbU3PtAzknVVX1ohDS1Ynf9e426mpUgK2m14QVERotrnr
 category: gift
 tags:
@@ -15,7 +15,7 @@ author:
 
 <iframe src='https://opensea.io/collection/joyblocks'
         width='100%'
-        height='100%'
+        height='2000px'
         frameborder='0'
         allowfullscreen></iframe>
 
