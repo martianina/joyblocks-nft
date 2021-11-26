@@ -14,7 +14,7 @@ author:
 ---
 
 <iframe src='https://opensea.io/assets?embed=true'
-        width='100%'
-        height='100%'
+        width='1200px'
+        height='2000px'
         frameborder='0'
         allowfullscreen></iframe>
