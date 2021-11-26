@@ -13,8 +13,8 @@ tags:
 author: 
 ---
 
-<iframe src='https://opensea.io/assets?embed=true'
-        width='1200px'
+<iframe src='https://opensea.io/collection/joyblocks'
+        width='2000px'
         height='2000px'
         frameborder='0'
         allowfullscreen></iframe>
