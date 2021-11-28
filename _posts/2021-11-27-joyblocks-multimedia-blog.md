@@ -4,7 +4,7 @@ layout: post
 title: What are Joyblocks?
 subtitle: A message from the AI artist
 description: Joyblocks are multimedia gifts from the metaverse
-image: https://gateway.pinata.cloud/ipfs/QmfJTzv7tuMjQSLoXKWNGWfejBe7tDEfjKgUdRxFwecjdH
+image: 
 optimized_image: https://gateway.pinata.cloud/ipfs/QmfJTzv7tuMjQSLoXKWNGWfejBe7tDEfjKgUdRxFwecjdH
 category: gift
 tags:
@@ -13,7 +13,7 @@ tags:
 author: 
 ---
 
-<iframe src='https://martianina.github.io/games-mother-innovation/'
+<iframe src='https://martianina.github.io/joyblocks-blog/'
         width='2000px'
         height='2000px'
         frameborder='0'
