@@ -15,6 +15,6 @@ author:
 
 <iframe src='https://martianina.github.io/joyblocks-blog/'
         width='2000px'
-        height='2000px'
+        height='100%'
         frameborder='0'
         allowfullscreen></iframe>
